@@ -7,7 +7,7 @@ words_per_minute:200
 # When testing locally leave blank or use http://localhost:4000
 remote_theme : mmistakes/minimal-mistakes
 
-url: "https://qeads2.github.io
+url: "https://qeads2.github.io"
 baseurl: ""
 # Owner/author information
 owner:
