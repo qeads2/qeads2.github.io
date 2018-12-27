@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "파이썬 프로젝트"
 title_separator          : "-"
 name                     : "Na Min O"
